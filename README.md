@@ -1,0 +1,2 @@
+# HC-SRO4-sensor-Raspberry-Pi-
+Code for measuring distance using echo by the ultrasonic sensor HC-SRO4 with the raspberry pi. Make sure to consider the correct layout and to connect the proper resistors.  A function that displays the time span for each signal is only for debugging purposes, you can keep it or comment it out if you want.  Distance is being measured in cm, as documented in the code, you can change the unit to meters by omitting the *100.
